@@ -1,0 +1,57 @@
+What is clojure? 
+
+Dynamic language for reliable concurrent systems 
+
+Emphasizes simplicity and immutable data 
+
+Works with your existing systems and codebase 
+
+Clojure is a funcational programming language 
+
+Compact and fast! 
+
+Used in: 
+  - Web applications 
+  - Web and mobile backend APIs 
+  - SPAs 
+  - Macine learning and data mining 
+  - Search engine and data brokers 
+
+Flavors:
+  - Clojure for the JVM/Java platform 
+  - ClojureScript for Javascript, ECMAscript and NodeJS :) 
+  - ClojureCLR for .NET/CLR
+
+Vocab:
+
+Simple 
+  a concept that cannot be broken down 
+  a peice of data that is not made of other data
+
+Value 
+  Data that does not change over time 
+
+Compound
+  Data that is made of other data, not simple 
+
+Identity
+  A sequence to values that change with time 
+
+Evaluate 
+  Translate one expression into the next, by running it! 
+
+Function 
+  Those things they taught you in algebra 
+
+REPL 
+  An interactive progrom that lets you type and run code
+
+
+Try Clojure 
+  www.tryclj.com 
+  www.4clojure.com -> has great puzzles 
+
+The Leiningen Build Tool 
+  the premier de facto build tool for building clojure code 
+    you need java 
+    you need homebrew 
