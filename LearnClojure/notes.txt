@@ -53,5 +53,16 @@ Try Clojure
 
 The Leiningen Build Tool 
   the premier de facto build tool for building clojure code 
+
+  Mac
     you need java 
-    you need homebrew 
+    you need homebrew -> brew install Leiningen
+
+  Windows 
+    you need the windows installer from leiningen.org
+
+  Linux 
+    linuxbrew 
+    java 
+
+  Emacs Environment 
