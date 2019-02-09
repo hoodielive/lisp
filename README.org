@@ -1,5 +1,9 @@
 #+TITLE: Lisp Fundamentals
 
+Ok, so this whole notion of functional programming is terrifyingly fascinating. The idea that we should avoid assignment 
+statements as much as possible so as to transcend mutating the 'state' of a variable is technically 'dope', but practically
+challenging..  but ok! I love challenges.. 
+
 ** Scheme
 **  Clojure
 **  Racket
