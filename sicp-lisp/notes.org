@@ -15,6 +15,21 @@
     Method for finding a fixed point of a function f (that is, a value Y such that F(Y) = Y)
     - start with a guess for y 
     - keep applying f over and over until the result doesn't change very much 
-
     Ex.
     To compute square root, find a fixed point of the function Y -> Avergae of Y and X/Y
+
+  - Primitive Objects
+    - Primitive Procedures
+    - Primitive Data
+
+  - Means of Combination
+    - Procedure Composition
+    - Construction of Compound Data
+
+  - Means of Abstraction
+    - Procedure Definition
+    - Simple Data Abstraction
+
+  - Capturing Common Patterns
+    - High-Order Procedures
+    - Data as Procedures
