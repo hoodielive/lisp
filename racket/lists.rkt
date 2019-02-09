@@ -45,3 +45,6 @@ taro
 
 (lambda (x) x) ;; the identity property
 ((lambda (x) x) 5)
+
+(define double (lambda (x) (+ x x)))
+(double 5) ; double 5
